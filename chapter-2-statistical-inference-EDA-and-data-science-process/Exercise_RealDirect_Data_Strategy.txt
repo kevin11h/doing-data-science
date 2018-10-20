@@ -1,0 +1,29 @@
+1.  Explore existing website
+
+How do users navigate?  How is website structured?
+
+How is it organized?  What is the existing business model?
+
++  What data to advise engineers to log?  What is the ideal dataset?
++  How can data be used to report and monitor product usage?
++  How would data be built back into the product or website?
+
+
+2.  No data to analyze -> auxiliary data to help gain instuition for this market
+
++  Load, clean, run EDA.  How to treat typed data? (format dates, numerical data)
++  EDA, visualize, make comparisons (i) Across neighborhood (ii) Across tme
+
+3.  Summarize insights, discoveries in brief report aimed at CEO
+
+4.  Speak, Communicate with other experts.  What are communcation strategies to establish trust and understanding?
+
+Who are other people I can talk to?
+
+5.  I'm not a domain expert in Real Estate or Online Business (yet)
+
++  How do I escape my comfort zone, past knowledge?  How do I collect data in different settings in contrast from my own field?
++  Vocabulary, language.  How to communicate in common language, express words in thoughts and action. 
++  Habits, persistence, asking questions
+
+6.  No industry standard for data strategy creation
